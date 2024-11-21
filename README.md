@@ -1,4 +1,4 @@
-# Project Setup Guide
+# Setup Guide
 
 This guide will help you set up and run the project locally on your machine.
 
