@@ -16,11 +16,8 @@ git clone <repository-url>
 cd <repository-name>
 ```
 
-2. Create and activate virtual environment
+2. Activate virtual environment
 ```bash
-# Create virtual environment
-python -m venv env
-
 # Activate virtual environment
 # On Linux/macOS:
 source env/bin/activate
