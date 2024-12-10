@@ -30,8 +30,16 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Running the Scripts
+## Run programaTumor.py (Python3.11 only)
+programaTumor.py Just runs over tumor/bin/active virtualenv and need python3.11
+to activate do the following:
+```bash
+source /tumor/bun/activate
+cd src
+python programaTumor.py
+```
 
+## Run programa6.py
 Navigate to the src directory and run any script:
 ```bash
 cd src
