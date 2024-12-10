@@ -1,6 +1,7 @@
 # Setup Guide
 
 This guide will help you set up and run the project locally on your machine.
+(The evidence is lcoated in /Evidencia.png)
 
 ## Prerequisites
 
@@ -15,11 +16,8 @@ git clone <repository-url>
 cd <repository-name>
 ```
 
-2. Create and activate virtual environment
+2. Activate virtual environment
 ```bash
-# Create virtual environment
-python -m venv env
-
 # Activate virtual environment
 # On Linux/macOS:
 source env/bin/activate
@@ -32,8 +30,16 @@ source env/bin/activate
 pip install -r requirements.txt
 ```
 
-## Running the Scripts
+## Run programaTumor.py (Python3.11 only)
+programaTumor.py Just runs over tumor/bin/active virtualenv and need python3.11
+to activate do the following:
+```bash
+source /tumor/bun/activate
+cd src
+python programaTumor.py
+```
 
+## Run programa6.py
 Navigate to the src directory and run any script:
 ```bash
 cd src
